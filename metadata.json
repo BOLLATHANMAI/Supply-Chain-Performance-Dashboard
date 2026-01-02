@@ -1,0 +1,5 @@
+{
+  "name": "Supply Chain Performance Dashboard",
+  "description": "An advanced interactive logistics dashboard to visualize delivery delays, freight costs, and identify supply chain inefficiencies with AI-powered insights.",
+  "requestFramePermissions": []
+}
